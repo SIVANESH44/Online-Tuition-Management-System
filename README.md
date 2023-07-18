@@ -14,4 +14,5 @@
 ## Tech Stack and Tools
 <img width="702" alt="Screenshot 2022-06-28 at 10 34 40 PM" src="https://user-images.githubusercontent.com/73633472/176241366-54962886-c90c-4547-b3dd-6654d9961666.png">
 
-
+## UI Prototype Link
+https://www.figma.com/file/qIyQKcxu02Og9LDcGU31N1/SWE-PROJECT?node-id=0%3A1
