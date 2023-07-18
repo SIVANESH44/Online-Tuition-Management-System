@@ -1,4 +1,3 @@
-## SWE-J-comp
 # ONLINE TUITION MANAGEMENT SYSTEM
 
   Most students in their schooling goes to tuition centers in order to
