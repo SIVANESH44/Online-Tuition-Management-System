@@ -1,7 +1,6 @@
 ## SWE-J-comp
 # ONLINE TUITION MANAGEMENT SYSTEM
 
-## INTRODUCTION
   Most students in their schooling goes to tuition centers in order to
   understand concepts better than what is taught in the schools. Students also
   go to tuition centers inorder to prepare for the entrance examinations like
